@@ -29,3 +29,8 @@ $$ d_2 = d_1 - \sigma \sqrt{T} $$
 - **σ (sigma)**: Volatility of the stock, expressed as a decimal.
 - **N(x)**: The cumulative distribution function of the standard normal distribution.
 
+## 2)Value at Risk
+Implement Value at Risk methodology as describe in the Exercises.xlsx file
+
+N.B: 
+The implementation of this exercise was done considering a sensitivity of 1 and 1 day of horizon without passing these values as parameters.
